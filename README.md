@@ -1,27 +1,30 @@
 # Ben Morros
 
-**Engineering Leader** | React, Next.js, TypeScript | MBA, Johns Hopkins
+I build production software that turns messy real-world operations into fast, reliable systems.
 
-Sole architect of 5 production platforms. 525,000+ lines of TypeScript. 10,000+ tests.
+Engineering leader and full-stack builder working across React, TypeScript, product architecture, AI workflows, analytics, payments, realtime apps, and production infrastructure. MBA, Johns Hopkins.
 
-## What I Build
+## Focus
 
-**EyeBrowse** — AR e-commerce platform for CTrue Vision. 3 production interfaces (consumer storefront, offline-first retail kiosk, 26-tab admin dashboard), 135k+ products from 610+ brands. Browser-native face tracking at 30fps, encrypted offline ordering, real-time data sync. 265K LOC, 5,800 tests.
+- End-to-end product architecture, from rough business process to production system
+- Fast, polished interfaces for operators, admins, and customers
+- Data-backed platforms with permissions, audit trails, reporting, and integrations
+- AI-assisted workflows, model orchestration, automation, and evaluation
+- Release quality: CI, tests, observability, security hygiene, and maintainable docs
 
-**Collecta** — AI art collection management with 3D virtual galleries, multi-provider vision AI orchestration. 243K LOC, 3,500 tests.
+## Scale
 
-**GreenTech LVG** — AI platform for contractors. Gemini chatbot, automated quoting, GPS fleet tracking. 950 tests.
-
-**Royal Eyewear** — B2B luxury eyewear ordering portal with AI-powered data analytics.
-
-**Anchored Wellness** — Premium wellness marketing platform.
+- 5 production platforms built end to end
+- 500k+ lines of TypeScript across private product work
+- 10k+ automated tests
+- Systems spanning healthcare operations, commerce, analytics, AI, 3D/AR, and admin tooling
 
 ## Stack
 
-React 19 | Next.js 16 | TypeScript | Supabase | Stripe | Three.js | MediaPipe | Playwright | Vercel | AWS
+React | Next.js | TypeScript | Supabase | Postgres | Vercel | Playwright | Vitest | Tailwind | Stripe | Three.js | MediaPipe | AI SDK | AWS
 
 ## Portfolio
 
-**[benmorros.com](https://benmorros.com)** — live demos, architecture breakdowns, case studies.
+[benmorros.com](https://benmorros.com)
 
-Most of my work lives in private repos for clients. The portfolio site is where I show the systems in detail.
+Most of my serious work is private, but I like sharp conversations with people building ambitious software.
