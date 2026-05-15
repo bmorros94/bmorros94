@@ -14,11 +14,10 @@ Engineering leader and full-stack builder working across React, TypeScript, prod
 
 ## Scale
 
-- 5 production platforms built end to end
+- Production systems built across healthcare, commerce, analytics, AI, 3D/AR, and admin tooling
 - 1.8M+ source lines across private systems work
 - 1.3M+ lines of TypeScript across modern web applications
 - 18k+ automated test cases
-- Systems spanning healthcare operations, commerce, analytics, AI, 3D/AR, and admin tooling
 
 ## Stack
 
