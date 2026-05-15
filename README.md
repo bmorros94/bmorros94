@@ -1,7 +1,5 @@
 # Ben Morros
 
-I build production software that turns messy real-world operations into fast, reliable systems.
-
 Engineering leader and full-stack builder working across React, TypeScript, product architecture, AI workflows, analytics, payments, realtime apps, and production infrastructure. MBA, Johns Hopkins.
 
 ## Focus
