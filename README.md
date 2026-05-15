@@ -27,4 +27,4 @@ React | Next.js | TypeScript | Supabase | Postgres | Vercel | Playwright | Vites
 
 [benmorros.com](https://benmorros.com)
 
-Most of my serious work is private, but I like sharp conversations with people building ambitious software.
+Selected public work, case studies, and product notes live there.
